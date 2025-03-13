@@ -2,6 +2,7 @@
 nb = ""
 notused= "notused"
 password="exposedpassword"
+print(password)
 grid = []
 line = []
 for i in range (3):
