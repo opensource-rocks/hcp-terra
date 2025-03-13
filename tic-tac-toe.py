@@ -1,6 +1,7 @@
 #grid creation
 nb = ""
 notused= "notused"
+password="exposedpassword"
 grid = []
 line = []
 for i in range (3):
